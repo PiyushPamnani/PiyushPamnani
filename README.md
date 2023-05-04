@@ -1,4 +1,4 @@
-### Hey, How you doin.. 😏
+### Hey, how you doin.. 😏
 
 <!--
 **PiyushPamnani/PiyushPamnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
