@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 🌱 Aspiring Software Engineer
 - 🔭 Currently pursuing my Electronics and Communication Engineering from MIT-WPU Pune 👨‍🎓
 - 🥅 2023 Goals: To do more than 300 contributions 💪
+- To know more 🧐 **[Click Here](https://piyushpamnani.github.io/Piyush-Portfolio/)**
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 
 <p align="center">
 <br/>
@@ -41,9 +42,9 @@ Here are some ideas to get you started:
 
 <br>
 
-<div>
-&nbsp;&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=PiyushPamnani&count_private=true&show_icons=true&theme=algolia" width="48%" >&nbsp;&nbsp;&nbsp;
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushPamnani&theme=algolia" width="48%" >
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PiyushPamnani&count_private=true&show_icons=true&theme=buefy" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushPamnani&theme=buefy" />
 </div>
 
 <br>
@@ -52,10 +53,10 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-[<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/PiyushPamnani)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/piyush-pamnani-199766167/)&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:piyushpamnani46@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<br />
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/piyush-pamnani-199766167/)&nbsp;&nbsp;&nbsp;&nbsp;
+  [<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/PiyushPamnani)&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:piyushpamnani46@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <br />
 
 </div>
 
