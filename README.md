@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 
 <br>
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PiyushPamnani&count_private=true&show_icons=true&theme=buefy" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushPamnani&theme=buefy" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=PiyushPamnani&count_private=true&show_icons=true&theme=buefy" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushPamnani&theme=buefy" />
 </div>
 
 <br>
