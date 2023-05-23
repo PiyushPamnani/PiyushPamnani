@@ -61,5 +61,5 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-<img alt="Profile Views"  src="https://komarev.com/ghpvc/?username=PiyushPamnani&color=blueviolet&style=plastic" width="13%"/>
+<img alt="Profile Views"  src="https://komarev.com/ghpvc/?username=PiyushPamnani&color=blueviolet&style=plastic" width="120px"/>
 </div>
