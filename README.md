@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 Aspiring Software Engineer
 - 🔭 Currently pursuing my Electronics and Communication Engineering from MIT-WPU Pune 👨‍🎓
 - 🥅 2023 Goals: To do more than 300 contributions 💪
-- To know more 🧐 **[Click Here](https://piyushpamnani.github.io/Piyush-Portfolio/)**
+- 🧐 To know more: **[Click Here](https://piyushpamnani.github.io/Piyush-Portfolio/)**
 
 ### 🛠️ Languages and Tools:
 
