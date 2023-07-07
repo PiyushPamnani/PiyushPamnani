@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  [<img width="110px" height="30px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white&style=plastic">](https://www.linkedin.com/in/piyush-pamnani-199766167/)&nbsp;&nbsp;&nbsp;&nbsp;
+  [<img width="110px" height="30px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white&style=plastic">](https://www.linkedin.com/in/piyushpamnani2001/)&nbsp;&nbsp;&nbsp;&nbsp;
   [<img width="110px" height="30px" src="https://img.shields.io/badge/Github-%23000000.svg?&logo=github&logoColor=white&style=plastic">](https://github.com/PiyushPamnani)&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:piyushpamnani46@gmail.com"><img width="110px" height="30px" src="https://img.shields.io/badge/gmail-%23D14836.svg?&logo=gmail&logoColor=white&style=plastic"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <br />
