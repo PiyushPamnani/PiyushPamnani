@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <img alt="GitHub" width="100px" height="30px" src="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white&style=plastic" />
   <img alt="JS" width="100px" height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black&style=plastic" />
   <img alt="Node" width="100px" height="30px" src="https://img.shields.io/badge/Node.js-43853D?&logo=node-dot-js&logoColor=white&style=plastic" />
+  <img alt="Material-UI" width="100px" height="30px" src="https://img.shields.io/badge/Material--UI-0081CB?&logo=material-ui&logoColor=blue&style=plastic" />
   <img alt="Python" width="100px" height="30px" src="https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white&style=plastic" />
   <img alt="NPM" width="100px" height="30px" src="https://img.shields.io/badge/npm-CB3837?&logo=npm&logoColor=white&style=plastic" />
   <img alt="Express" width="100px" height="30px" src="https://img.shields.io/badge/Express.js-000000?&logo=express&logoColor=white&style=plastic" /> 
