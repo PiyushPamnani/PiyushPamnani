@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 
 - 🌱 Aspiring Software Engineer
 - 🔭 Concluded my engineering in Electronics and Communication from MIT-WPU Pune in 2023 👨‍🎓
-- 🥅 2023 Goals: To do more than 300 contributions 💪
 - 🧐 To know more: **[Click Here](https://piyushpamnani.github.io/Piyush-Portfolio/)**
 
 ### 🛠️ Languages and Tools:
