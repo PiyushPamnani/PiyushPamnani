@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 
   <img alt="Next.js" width="100px" height="30px" src="https://img.shields.io/badge/Next.js-FFA000?&logo=next.js&logoColor=white&style=plastic" />
   <img alt="React Native" width="100px" height="30px" src="https://img.shields.io/badge/React%20Native-20232A?&logo=react&logoColor=61DAFB&style=plastic" />
+  <img alt="PHP" width="100px" height="30px" src="https://img.shields.io/badge/PHP-777BB4?&logo=php&logoColor=white&style=plastic" />
+  <img alt="WordPress" width="100px" height="30px" src="https://img.shields.io/badge/WordPress-21759B?&logo=wordpress&logoColor=white&style=plastic" />
 </p>
 
 ### 🏆 My Github Status
