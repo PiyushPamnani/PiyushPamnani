@@ -65,7 +65,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/PiyushPamnani"><img height="50px" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:piyushpamnani46@gmail.com"><img height="50px" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/piyush.pamnani"><img height="50px" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/piyushpamnani22"><img height="50px" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/Piyush2P"><img height="50px" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.fiverr.com/pamnanipiyush"><img height="55px" src="https://www.vectorlogo.zone/logos/fiverr/fiverr-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <br />
 
