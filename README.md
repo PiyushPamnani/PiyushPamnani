@@ -49,10 +49,6 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=PiyushPamnani&theme=buefy" width="49%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushPamnani&theme=buefy" width="49%" />
-  
-  <br />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PiyushPamnani&theme=buefy" />
-  <br />
 </div>
 
 <br>
@@ -66,6 +62,7 @@ Here are some ideas to get you started:
   <a href="mailto:piyushpamnani46@gmail.com"><img height="50px" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/piyush.pamnani"><img height="50px" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/Piyush2P"><img height="50px" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.upwork.com/freelancers/~0101712f05b9a3550c"><img height="50px" src="https://www.vectorlogo.zone/logos/upwork/upwork-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.fiverr.com/pamnanipiyush"><img height="55px" src="https://www.vectorlogo.zone/logos/fiverr/fiverr-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <br />
 
