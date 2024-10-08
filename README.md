@@ -53,15 +53,15 @@ Here are some ideas to get you started:
 
 <br>
 
-### Connect with me 🤝
+### Find Me On 🔍
 
 <div align="center">
   
   <a href="https://www.linkedin.com/in/piyushpamnani2001/"><img height="50px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/PiyushPamnani"><img height="50px" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:piyushpamnani46@gmail.com"><img height="50px" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/piyush.pamnani"><img height="50px" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/Piyush2P"><img height="50px" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/27458191/piyush-pamnani?tab=profile"><img height="55px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.upwork.com/freelancers/~0101712f05b9a3550c"><img height="50px" src="https://www.vectorlogo.zone/logos/upwork/upwork-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.fiverr.com/pamnanipiyush"><img height="55px" src="https://www.vectorlogo.zone/logos/fiverr/fiverr-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <br />
