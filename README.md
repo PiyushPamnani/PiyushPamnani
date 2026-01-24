@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- 🌱 Aspiring Software Engineer
+- 🌱 Software Developer
 - 🔭 Concluded my engineering in Electronics and Communication from MIT-WPU Pune in 2023 👨‍🎓
 - 🧐 To know more: **[Click Here](https://piyushpamnani.github.io/Piyush-Portfolio/)**
 
@@ -37,9 +37,9 @@ Here are some ideas to get you started:
   <img alt="Python" width="100px" height="30px" src="https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white&style=plastic" />
 
   <img alt="Next.js" width="100px" height="30px" src="https://img.shields.io/badge/Next.js-FFA000?&logo=next.js&logoColor=white&style=plastic" />
-  <img alt="React Native" width="100px" height="30px" src="https://img.shields.io/badge/React%20Native-20232A?&logo=react&logoColor=61DAFB&style=plastic" />
-  <img alt="PHP" width="100px" height="30px" src="https://img.shields.io/badge/PHP-777BB4?&logo=php&logoColor=white&style=plastic" />
-  <img alt="WordPress" width="100px" height="30px" src="https://img.shields.io/badge/WordPress-21759B?&logo=wordpress&logoColor=white&style=plastic" />
+  <img alt="Nest.js" width="100px" height="30px" src="https://img.shields.io/badge/Nest.js-E0234E?&logo=nestjs&logoColor=white&style=plastic" />
+  <img alt="Blockchain" width="100px" height="30px" src="https://img.shields.io/badge/Blockchain-121D33?&logo=blockchaindotcom&logoColor=white&style=plastic" />
+  
 </p>
 
 ### 🏆 My Github Status
@@ -62,12 +62,10 @@ Here are some ideas to get you started:
   <a href="mailto:piyushpamnani46@gmail.com"><img height="50px" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/Piyush2P"><img height="50px" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/27458191/piyush-pamnani?tab=profile"><img height="55px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.upwork.com/freelancers/~0101712f05b9a3550c"><img height="50px" src="https://www.vectorlogo.zone/logos/upwork/upwork-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.fiverr.com/pamnanipiyush"><img height="55px" src="https://www.vectorlogo.zone/logos/fiverr/fiverr-ar21.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <br />
 
 </div>
 
 <div align="center">
-<img alt="Profile Views"  src="https://komarev.com/ghpvc/?username=PiyushPamnani&color=blueviolet&style=plastic" width="120px"/>
+  <img alt="Profile Views"  src="https://komarev.com/ghpvc/?username=PiyushPamnani&color=blueviolet&style=plastic" width="120px"/>
 </div>
